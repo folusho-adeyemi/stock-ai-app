@@ -1,5 +1,4 @@
 name = "stock-ai-app"
 compatibility_date = "2026-01-13"
 
-main = "index.js"
 pages_build_output_dir = "dist"
